@@ -17,5 +17,4 @@ This project translates text from any language into English and generates video 
 
 ## Author
 [David Suragan on Telegram](https://t.me/davidsuragan)
-
 [GPT 4.1](https://chat.openai.com/) 
