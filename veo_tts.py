@@ -32,7 +32,7 @@ def generate_veo_tts(text, voice="grandmother", lang="kazakh", out_dir="output")
         subject = "They"
         descriptor = "soft, neutral voice"
 
-    # 3. Prepare prompt
+    # 3. Prepare a prompt, and you can also customize it yourself 
     prompt = (
         f"The black screen is silent, save for the {descriptor}. "
         f"{subject} speaks in the {lang} language:\n\n"
