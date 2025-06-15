@@ -16,6 +16,6 @@ This project translates text from any language into English and generates video 
 **Note:** I have not tested the code yet. However, I believe it should work as intended. If it does not, I trust you have understood the main idea of the project.
 
 ## Author
-VEO TTS project
 [David Suragan on Telegram](https://t.me/davidsuragan)
+
 [GPT 4.1](https://chat.openai.com/) 
